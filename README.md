@@ -186,48 +186,19 @@ If you find a bug, please create an issue with:
 4. **Actual behavior**
 5. **Screenshots** (if applicable)
 6. **Environment details** (OS, browser, Node.js version)
-
-## 💡 Feature Requests
-
-We love feature requests! Please:
-
-1. **Check existing issues** to avoid duplicates
-2. **Describe the feature** clearly
-3. **Explain the use case**
-4. **Provide examples** if possible
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   please contact:gokhulnath7@gmail.com
 
 ## 🙏 Acknowledgments
 
-- **OpenAI** for providing the translation API
-- **Material-UI** for the component library
-- **Google Fonts** for typography
-- **All contributors** who help improve this project
+- **All contributors** gokhulnath
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/lai-translator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/lai-translator/discussions)
-- **Email**: your.email@example.com
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/lai-translator&type=Date)](https://star-history.com/#yourusername/lai-translator&Date)
-
----
 
 **Made with ❤️ by Lai**
 
 *Break language barriers with AI-powered translation*
 
 ## 🔗 Links
-
-- [Live Demo](https://your-demo-link.com)
-- [API Documentation](https://your-api-docs.com)
-- [Contributing Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md) 
 =======
 # ai-translator
